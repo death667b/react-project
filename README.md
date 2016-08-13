@@ -20,6 +20,10 @@ Learning react
     + cloned from deecewan
     + changed origin from the clone to a new repository
     + git saved credentials 
+      (git config credential.helper store)
     + learnt how to auto-stage
 + (Sat 1PM) All gone to shit - I don't know whats happening.
     Starting again with out boilerplate
++ (Sat 1:20PM) New blank node project created - nothing in it
++ (Sat 1:40PM) Nope, started again with a difference tut
++ (Sat 2:20PM) very basic, so far working, long way togo
