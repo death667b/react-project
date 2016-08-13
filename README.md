@@ -16,6 +16,8 @@ Learning react
 ## TODO
 + Look into how best ignore auto-compiled files like bundle.js
   and bundle.js.map for .gitignore
++ Get React Hot Loader working, or something like it
+  http://gaearon.github.io/react-hot-loader/getstarted/
 
 ## Progress Log
 + (Sat 11am) I've found markdown
