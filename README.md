@@ -13,8 +13,11 @@ Learning react
     + Animate.js?
     + Depends if I use Polymer..
 
+## TODO
++ Look into how best ignore auto-compiled files like bundle.js
+  and bundle.js.map for .gitignore
 
-## Progress
+## Progress Log
 + (Sat 11am) I've found markdown
 + (Sat 12pm) I've got git CLI working
     + cloned from deecewan
@@ -28,3 +31,6 @@ Learning react
 + (Sat 1:40PM) Nope, started again with a difference tut
 + (Sat 2:20PM) very basic, so far working, long way togo
 + (Sat 2:25PM) F'ed the commit again..  How ??
++ (Sat 3:05PM) Very basic react and node working
+    + Noted that bundle.js and bundle.js.map is being uploaded
+      I need to look into this.
