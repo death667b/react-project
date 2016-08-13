@@ -36,3 +36,7 @@ Learning react
 + (Sat 3:05PM) Very basic react and node working
     + Noted that bundle.js and bundle.js.map is being uploaded
       I need to look into this.
++ (Sat 3:15PM) Added Dev and Build options to npm run.  Ran the 
+  build which minimizes the build.js.  It turns a 10 line script into a 250KB file with a 800KB map file - WTF?!
+  Really need to find the best way to ignore this files for git.
++ (Sat 3:40PM) Finished the tut, not sure what I've learnt yet
