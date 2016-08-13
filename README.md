@@ -27,3 +27,4 @@ Learning react
 + (Sat 1:20PM) New blank node project created - nothing in it
 + (Sat 1:40PM) Nope, started again with a difference tut
 + (Sat 2:20PM) very basic, so far working, long way togo
++ (Sat 2:25PM) F'ed the commit again..  How ??
