@@ -46,3 +46,6 @@ Learning react
 + (Sun 10:35AM) Yay! Shits working!
 + (Sun 10:40AM) Custom CSS working - text colour changed to red
 + (Sun 11:30AM) Moving forward, expect I'm not sure if bootstrap js is running..
+
+# (Sun 4:00PM) I'm out...
+Maybe another day I'll finish.  It seems I have been doing react wrong-ish ?
