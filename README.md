@@ -45,3 +45,4 @@ Learning react
 + (Sun 10:20AM) Remove /src/client/public from git 
 + (Sun 10:35AM) Yay! Shits working!
 + (Sun 10:40AM) Custom CSS working - text colour changed to red
++ (Sun 11:30AM) Moving forward, expect I'm not sure if bootstrap js is running..
