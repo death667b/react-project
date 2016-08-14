@@ -1,0 +1,34 @@
+.calc-title {
+	color: #d6ff00;
+}
+
+.likes-counter {
+	color: #ffa1a1;
+	font-size: 1.2em;
+}
+
+.likes-text {
+	color: #fff;
+	font-size: 1.3em;
+}
+
+.like-button {
+	margin: 7px 20px 0 0;
+}
+
+.likes-line {
+	margin: 13px 0 0 0;
+}
+
+#main-content {
+	margin-top: 80px;
+}
+
+body {
+	background-color :#e5f2f3;
+
+}
+
+.panel {
+	background-color: #e7e5f1;
+}
