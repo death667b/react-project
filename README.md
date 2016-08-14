@@ -14,7 +14,7 @@ Learning react
     + Depends if I use Polymer..
 
 ## TODO
-+ Look into how best ignore auto-compiled files like bundle.js
++ *done* Look into how best ignore auto-compiled files like bundle.js
   and bundle.js.map for .gitignore
 + Get React Hot Loader working, or something like it
   http://gaearon.github.io/react-hot-loader/getstarted/
@@ -42,3 +42,6 @@ Learning react
 + (Sat 3:40PM) Finished the tut, not sure what I've learnt yet
 *****
 + (Sun 10:15AM) Bootstrap works!
++ (Sun 10:20AM) Remove /src/client/public from git 
++ (Sun 10:35AM) Yay! Shits working!
++ (Sun 10:40AM) Custom CSS working - text colour changed to red
