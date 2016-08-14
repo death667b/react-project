@@ -1,3 +1,8 @@
+@font-face {
+    font-family:"Noto Sans";
+    src: url("./NotoSans-Regular.ttf")
+}
+
 .calc-title {
 	color: #d6ff00;
 }
@@ -26,7 +31,7 @@
 
 body {
 	background-color :#e5f2f3;
-
+	font-family: "Noto Sans";
 }
 
 .panel {

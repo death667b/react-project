@@ -39,7 +39,7 @@ var config = {
 			},
 			{
 				test: /\.ttf(\?v=\d+\.\d+\.\d+)?$/, 
-				loader: 'url?limit=10000&mimetype=application/octet-stream',
+	 			loader: 'url-loader?limit=30000&name=./public/[name].[ext]'
 			},
 			{
 				test: /\.eot(\?v=\d+\.\d+\.\d+)?$/, 
