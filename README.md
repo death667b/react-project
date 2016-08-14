@@ -40,3 +40,5 @@ Learning react
   build which minimizes the build.js.  It turns a 10 line script into a 250KB file with a 800KB map file - WTF?!
   Really need to find the best way to ignore this files for git.
 + (Sat 3:40PM) Finished the tut, not sure what I've learnt yet
+*****
++ (Sun 10:15AM) Bootstrap works!
